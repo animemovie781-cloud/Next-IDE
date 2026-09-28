@@ -1,4 +1,4 @@
-# 🚀 Next-IDE
+# 🚀 Next-IDE .com
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fb645d65-82c6-4b9b-8612-5b7ca60f160a" width="48" height="48" alt="Next-IDE Logo" />
